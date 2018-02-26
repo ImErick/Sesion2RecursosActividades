@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Sesion2RecursosActividades</string>
+    <string name="txtNombre">Nombre</string>
+    <string name="editNombre">Escribe tu nombre</string>
+    <string name="txtTelefono">Telefono</string>
+    <string name="editTelefono">Escribe tu telefono</string>
+    <string name="btnGuardar">Guardar</string>
+    <string name="btnPresionado">Presionaste el boton</string>
+</resources>
